@@ -1,7 +1,7 @@
 
 ### Date       : February - 03 - 2024 : Saturday
 
-* Repository : Webb - Technologies 
+* Repository : Web - Technologies 
 * Creation   : Initial Commit 
-* Purpose    : Journey in web development
+* Purpose    : Journey in Web Development
 
